@@ -1,2 +1,4 @@
-package org.example.seal;public class Square {
+package org.example.seal;
+
+public final class Square implements Shape {
 }

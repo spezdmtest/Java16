@@ -1,4 +1,4 @@
-package org.example.pattern.matching.old.upd;
+package org.example.pattern.matching.upd;
 
 public interface Spaceship {
     /**

@@ -1,2 +1,5 @@
-package org.example.seal;public class Shape {
+package org.example.seal;
+
+public sealed interface Shape permits Circle,Pentagon,Square {
+
 }

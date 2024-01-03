@@ -1,2 +1,4 @@
-package org.example.seal;public class Circle {
+package org.example.seal;
+
+public non-sealed class Circle implements Shape{
 }
